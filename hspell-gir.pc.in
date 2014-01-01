@@ -1,0 +1,11 @@
+prefix=/usr
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: hspell-gir
+Description: A gobject for hspell
+Requires: glib-2.0,gobject-2.0
+Version: @VERSION@
+Libs: -L${libdir} -lz -lm -lhspell -lhspell_gir
+Cflags: -I${includedir}
