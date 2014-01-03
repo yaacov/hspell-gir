@@ -17,16 +17,16 @@ Examples
 The GObject introspection can be used in many languages:
 
 A Java script example:
-[test.js](http://code.google.com/p/hspell-gir/source/browse/examples/test.js) 
+[test.js](https://github.com/yaacov/hspell-gir/blob/master/examples/test.js) 
 
 A Python example:
-[test.py](http://code.google.com/p/hspell-gir/source/browse/examples/test.py) 
+[test.py](https://github.com/yaacov/hspell-gir/blob/master/examples/test.py) 
 
 Graphical example using Python and Qt
 -------------------------------------
 
 A pyside example:
-[hspell-gui.py](http://code.google.com/p/hspell-gir/source/browse/examples/hspell-gui/hspell-gui.py)
+[hspell-gui.py](https://github.com/yaacov/hspell-gir/blob/master/examples/hspell-gui/hspell-gui.py)
 
 <img src="https://raw.github.com/yaacov/hspell-gir/master/examples/images/hspell.png" width="350" height="400" >
 
