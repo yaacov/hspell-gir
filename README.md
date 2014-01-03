@@ -28,7 +28,7 @@ Graphical example using Python and Qt
 A pyside example:
 [hspell-gui.py](http://code.google.com/p/hspell-gir/source/browse/examples/hspell-gui/hspell-gui.py)
 
-<img src="http://hspell-gir.googlecode.com/hg/examples/images/hspell.png" width="350" height="400" >
+<img src="https://raw.github.com/yaacov/hspell-gir/master/examples/images/hspell.png" width="350" height="400" >
 
 Usage
 -----
